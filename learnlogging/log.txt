@@ -1,0 +1,23 @@
+2019-03-29 11:30:03,991 - mainModule - INFO - creating an instance of subModule.subModuleClass
+2019-03-29 11:30:03,991 - mainModule.sub.module - INFO - creating an instance in SubModuleClass
+2019-03-29 11:30:03,992 - mainModule - INFO - calling subModule.subModuleClass.doSomething
+2019-03-29 11:30:03,992 - mainModule.sub.module - INFO - do something in SubModule
+2019-03-29 11:30:03,992 - mainModule.sub.module - INFO - finish something in SubModuleClass
+2019-03-29 11:30:03,992 - mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2019-03-29 11:30:03,992 - mainModule - INFO - calling subModule.some_function
+2019-03-29 11:30:03,993 - mainModule.sub - INFO - call function some_function
+2019-03-29 11:30:03,993 - mainModule - INFO - done with subModule.some_function
+2019-03-29 11:32:48,858 - mainModule - INFO - creating an instance of subModule.subModuleClass
+2019-03-29 11:32:48,858 - mainModule - INFO - calling subModule.subModuleClass.doSomething
+2019-03-29 11:32:48,858 - mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2019-03-29 11:32:48,859 - mainModule - INFO - calling subModule.some_function
+2019-03-29 11:32:48,859 - mainModule - INFO - done with subModule.some_function
+2019-03-29 11:33:56,317 - mainModule - INFO - creating an instance of subModule.subModuleClass
+2019-03-29 11:33:56,317 - mainModule.sub.module - INFO - creating an instance in SubModuleClass
+2019-03-29 11:33:56,317 - mainModule - INFO - calling subModule.subModuleClass.doSomething
+2019-03-29 11:33:56,317 - mainModule.sub.module - INFO - do something in SubModule
+2019-03-29 11:33:56,317 - mainModule.sub.module - INFO - finish something in SubModuleClass
+2019-03-29 11:33:56,317 - mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2019-03-29 11:33:56,317 - mainModule - INFO - calling subModule.some_function
+2019-03-29 11:33:56,317 - mainModule.sub - INFO - call function some_function
+2019-03-29 11:33:56,317 - mainModule - INFO - done with subModule.some_function
